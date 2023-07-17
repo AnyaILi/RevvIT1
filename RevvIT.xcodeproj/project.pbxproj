@@ -11,7 +11,7 @@
 		BD208BCE2A65EFFB00A70820 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD208BCD2A65EFFB00A70820 /* ContentView.swift */; };
 		BD208BD02A65EFFC00A70820 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BD208BCF2A65EFFC00A70820 /* Assets.xcassets */; };
 		BD208BD32A65EFFC00A70820 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BD208BD22A65EFFC00A70820 /* Preview Assets.xcassets */; };
-		BD208BDA2A65F90500A70820 /* Quote.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD208BD92A65F90500A70820 /* Quote.swift */; };
+		BD208BDC2A65F9FB00A70820 /* homepage.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD208BDB2A65F9FB00A70820 /* homepage.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,7 +20,7 @@
 		BD208BCD2A65EFFB00A70820 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		BD208BCF2A65EFFC00A70820 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		BD208BD22A65EFFC00A70820 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
-		BD208BD92A65F90500A70820 /* Quote.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Quote.swift; sourceTree = "<group>"; };
+		BD208BDB2A65F9FB00A70820 /* homepage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = homepage.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,7 +55,7 @@
 			children = (
 				BD208BCB2A65EFFB00A70820 /* RevvITApp.swift */,
 				BD208BCD2A65EFFB00A70820 /* ContentView.swift */,
-				BD208BD92A65F90500A70820 /* Quote.swift */,
+				BD208BDB2A65F9FB00A70820 /* homepage.swift */,
 				BD208BCF2A65EFFC00A70820 /* Assets.xcassets */,
 				BD208BD12A65EFFC00A70820 /* Preview Content */,
 			);
@@ -141,8 +141,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				BD208BCE2A65EFFB00A70820 /* ContentView.swift in Sources */,
-				BD208BDA2A65F90500A70820 /* Quote.swift in Sources */,
 				BD208BCC2A65EFFB00A70820 /* RevvITApp.swift in Sources */,
+				BD208BDC2A65F9FB00A70820 /* homepage.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
